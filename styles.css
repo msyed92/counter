@@ -1,0 +1,29 @@
+.main {
+  text-align: center;
+  margin: 15% auto;
+}
+
+.btns {
+    margin: 10% auto;
+}
+
+.btn {
+    margin: 2%;
+}
+
+.count {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.pos {
+    color: green;
+}
+
+.neg {
+    color: red;
+}
+
+.zero {
+    color: black;
+}
